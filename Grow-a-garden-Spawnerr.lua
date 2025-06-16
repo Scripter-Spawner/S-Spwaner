@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripter-Spawner/S-Spwaner/main/Grow-a-garden-Spawner.lua"))()
