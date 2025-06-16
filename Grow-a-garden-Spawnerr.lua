@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripter-Spawner/S-Spwaner/main/Grow-a-garden-Spawner.lua"))()
+loadstring(game:HttpGet("https://paste.ee/r/OI7XgT4V"))()
