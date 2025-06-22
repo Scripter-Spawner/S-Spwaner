@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripter-Spawner/S-Spwaner/refs/heads/main/No-Lag-Spawner"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripter-Spawner/S-Spwaner/refs/heads/main/Nolaghub-Spawner"))()
